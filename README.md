@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @linux-coding649
-- I like coding in Python
-- I can also code in C++ and BASH Scripting
-- I would like it if you could tell me how to fix a bug in my programs, if there is one.
+
